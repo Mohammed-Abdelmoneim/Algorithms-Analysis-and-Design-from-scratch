@@ -14,5 +14,5 @@ float circle_area(float r)
 int main()
 {
   float result = circle_area(10);
-  printf("Result: %f", result);
+  printf("Result: %f\n", result);
 }
