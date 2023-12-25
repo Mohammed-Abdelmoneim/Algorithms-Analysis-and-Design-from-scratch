@@ -1,5 +1,6 @@
 # 01-Circle-area
 *write an algorithm to calculate the area of a circle.*
+> [!IMPORTANT]
 > To calculate the circle area, we will use the formula **A = π r<sup>2</sup>**
 
 ### Algorithm
@@ -12,8 +13,8 @@
 
 # 02-ex-parallelogram-area
 *write an algorithm to calculate the area of a parallelogram.*
-> [!NOTE]
-> To calculate the parrallelogram area, we will use the formula **A = b h**.
+> [!IMPORTANT]
+> To calculate the parrallelogram area, we will use the formula **A = b h**.<br>
 > b = base, h = height.
 
 ### Algorithm
