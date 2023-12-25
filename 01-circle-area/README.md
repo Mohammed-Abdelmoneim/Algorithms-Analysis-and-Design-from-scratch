@@ -28,7 +28,7 @@
 # 03-ex-trapezoid-area
 *write an algorithm to calculate the area of a trapezoid.*
 > [!IMPORTANT]
-> To calculate the trapezoid area, we will use the formula *A = 0.5(a + b) h**.<br>
+> To calculate the trapezoid area, we will use the formula **A = 0.5(a + b) h**.<br>
 > a = base one, b = base two, h = height.
 
 ### Algorithm
