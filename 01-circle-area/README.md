@@ -12,8 +12,8 @@
 
 # 02-ex-parallelogram-area
 *write an algorithm to calculate the area of a parallelogram.*
-   > To calculate the parrallelogram area, we will use the formula **A = b h**
-   > b = base, h = height
+> To calculate the parrallelogram area, we will use the formula **A = b h**.
+> b = base, h = height.
 
 ### Algorithm
 1. Read the input from the user (base and height).
