@@ -1,7 +1,24 @@
-# Flow Charts
+# 01-Circle-area
+*write an algorithm to calculate the area of a circle.*
+> To calculate the circle area, we will use the formula **A = π r<sup>2</sup>**
 
-1. First one which is we need to find the area of a circle.
+### Algorithm
+1. Read the input from the user (radius).
+2. Multiply the radius by itself and multiply the value by pi.
+3. Print the output (A).
 
-   > To calculate the circle area, we will use the formula **A = π (r \* r)**
-
+### Flow Chart
 ![01-FLOW-CHART](01-circle-area-flowchart.png)
+
+# 02-ex-parallelogram-area
+*write an algorithm to calculate the area of a parallelogram.*
+> To calculate the parrallelogram area, we will use the formula **A = b h**.
+> b = base, h = height.
+
+### Algorithm
+1. Read the input from the user (base and height).
+2. Multiply the inputs.
+3. Print the output (A).
+
+### Flow Chart
+![01-FLOW-CHART](02-ex-parallelogram-area.png.png)
