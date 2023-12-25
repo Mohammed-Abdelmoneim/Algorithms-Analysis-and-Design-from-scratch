@@ -14,6 +14,6 @@ float parallelo_area(float b, float h)
 
 int main()
 {
-  float result = parallelo_area(10.7, 8.5);
-  printf("Result: %f\n", result);
+  float result = parallelo_area(10.7, 8.5); // random values for testing
+  printf("Result: %f\n", result); // It'll print 90.949997
 }

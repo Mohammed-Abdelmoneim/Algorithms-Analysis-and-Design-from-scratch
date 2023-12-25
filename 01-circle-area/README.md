@@ -24,3 +24,17 @@
 
 ### Flow Chart
 ![01-FLOW-CHART](02-ex-parallelogram-area.png)
+
+# 03-ex-trapezoid-area
+*write an algorithm to calculate the area of a trapezoid.*
+> [!IMPORTANT]
+> To calculate the trapezoid area, we will use the formula *A = 0.5(a + b) h**.<br>
+> a = base one, b = base two, h = height.
+
+### Algorithm
+1. Read the input from the user (the bases and height).
+2. Multiply the inputs and do the calculations.
+3. Print the output (A).
+
+### Flow Chart
+![01-FLOW-CHART](03-ex-trapezoid-area.png)

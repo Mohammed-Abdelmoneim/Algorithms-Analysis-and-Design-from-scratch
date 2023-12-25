@@ -13,6 +13,6 @@ float circle_area(float r)
 
 int main()
 {
-  float result = circle_area(10);
-  printf("Result: %f\n", result);
+  float result = circle_area(10); // random value for testing
+  printf("Result: %f\n", result); // It'll print 314.149994
 }
