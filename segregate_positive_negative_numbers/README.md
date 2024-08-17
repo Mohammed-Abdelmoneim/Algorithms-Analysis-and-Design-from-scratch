@@ -1,5 +1,5 @@
 # NOTES
-> -> The best solution is not always the one with the best complexity class.
+> -> The best solution is not always the one with the best complexity class. <br />
 > -> The most convenient solution is not always the one with the best complexity class.
 
 > Always start by writing pseudocode or outlining a guide for your solution.
