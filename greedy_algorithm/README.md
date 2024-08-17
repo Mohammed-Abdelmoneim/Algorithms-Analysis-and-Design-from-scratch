@@ -11,5 +11,9 @@
 - Local optimal solution (greedy choice)
 
 ## How to know Greedy Algo will be applicable?
-- greedy-choice property
-- optimal substructure
+- greedy-choice property (Each step involves making a decision from available options)
+- optimal substructure (These choices ultimately led to a result or outcome)
+
+
+> **Example**
+> Hiring process (usually greedy)
