@@ -16,3 +16,11 @@
 > - No code could be used for more than one char.
 > - No code could be the same of other code prefix.
 > - Long codes used for the least frequency chars.
+
+<br/>
+
+## Data Structures 
+- Priority Queue is Min-Heap or Max-Heap. <br/>
+- Heap is a complete Binary tree. <br/>
+- Binary tree is a collection of related nodes. <br/>
+- Node is an object has data and references to another data.
