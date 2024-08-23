@@ -5,7 +5,7 @@
 <br/>
 
 ## How it works?
-> • sum first two frequencies <br/>
+> • Sum first two frequencies <br/>
 > • Sort the output in the table in the next colmun <br/>
 > • Move the remain frequencies to the next colmun 
 
