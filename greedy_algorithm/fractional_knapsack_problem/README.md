@@ -7,4 +7,4 @@
 2. Sort the item by ratio from the largest to the smallest.
 3. While knapsack if not full: for each item, if item weight is less than the current knapsack capacity then add it as is in the knapsack, else add a fraction of it.
 
-![Fractional Knapsack problem](blob:https://web.telegram.org/51302c83-f39c-42ad-9331-209215205fd9)
+![Fractional Knapsack problem](https://github.com/Mohammed-Abdelmoneim/Algorithms-Analysis-and-Design-from-scratch/blob/main/greedy_algorithm/fractional_knapsack_problem/Fractional%20Knapsack.png)
