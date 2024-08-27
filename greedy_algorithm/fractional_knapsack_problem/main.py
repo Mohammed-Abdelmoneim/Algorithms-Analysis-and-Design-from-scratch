@@ -1,6 +1,6 @@
 from sort import merge_sort
-from knapSack import Knapsack, Item
-from prints import print_array, print_items
+from knapsack import Knapsack, Item
+from print import print_array, print_items
 
 # create arrays of randomly assigned values and weights
 values = [4, 9, 12, 11, 6, 5]

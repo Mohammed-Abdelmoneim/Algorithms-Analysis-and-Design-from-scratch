@@ -1,4 +1,4 @@
-from my_knapSack import Knapsack, Item
+from knapsack import Knapsack, Item
 
 
 def print_items(bag):
