@@ -1,3 +1,4 @@
+## Graph
 > **a graph is a way to represent a set of objects and the relationships between them.**
 >
 > - Vertics (Node or Point): _Think of these as points or places. Each node represents an object or entity. For example, in a social network, nodes might represent people._ <br/><br/>
