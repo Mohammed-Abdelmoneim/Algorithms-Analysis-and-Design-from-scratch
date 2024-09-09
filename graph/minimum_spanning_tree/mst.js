@@ -36,3 +36,11 @@ while (selected_edges_count < v - 1) {
     `${labels[temp_from]} - ${labels[temp_to]} : ${graph[temp_from][temp_to]}`
   );
 }
+
+// The Result should be:
+// 1 - 4 : 2.8
+// 4 - 3 : 3.4
+// 1 - 6 : 3.6
+// 6 - 2 : 3.2
+// 6 - 5 : 4.6
+// ---------------------
