@@ -1,5 +1,7 @@
 # Algorithms Analysis and Design Journey with Ahmed Metwally Course
 
+![Algorithms Analysis and Design](algo_cover.png)
+
 Welcome to my **personal** repository dedicated to the **"Algorithms Analysis and Design"** course led by the instructor **Ahmed Metwally**. This repository serves as my virtual workspace, documenting my progress, solutions, and reflections as I journey through the course. It's a dynamic record of my growth in understanding algorithms and their applications.
 
 ## Purpose of the Repository
